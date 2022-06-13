@@ -9,9 +9,4 @@
             destination_path="/etc"
             file_name="server.log"
     />
-    <file
-            source_path="C:\Windows\Help"
-            destination_path="C:\Program files"
-            file_name="Help.doc"
-    />
 </config>
